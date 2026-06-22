@@ -1655,8 +1655,8 @@ His focus was on ensuring a deep understanding of the problem, evaluating algori
 
 We would like to thank our peers:
 
-* Matthias Sars
-* Emre Kirgin
+* Matthias Sars: https://github.com/matthiassars
+* Emre Kirgin: https://github.com/EmreKirgin
 
 for several valuable discussions regarding:
 
