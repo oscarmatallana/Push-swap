@@ -1678,7 +1678,24 @@ These conversations significantly hProcess: push_swap
 Clone the repository:
 
 ```bash
+git clone https://github.com/oscarmatallana/Push-swap.git
+```
+
+or:
+
+```bash
 git clone https://github.com/jaay13/42-push_swap.git
+```
+
+and then, either:
+
+```bash
+cd Push_swap
+```
+
+or:
+
+```bash
 cd 42-push_swap
 ```
 
