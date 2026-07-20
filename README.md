@@ -12,6 +12,43 @@ We do not claim that our approach is the best possible one. Push_swap is a fasci
 
 ---
 
+## Table of Contents
+
+- [Description](#description)
+- [What Should Someone Learn From This Project?](#what-should-someone-learn-from-this-project)
+- [Project Objectives](#project-objectives)
+- [The Rules of the Game](#the-rules-of-the-game)
+- [Visualizing the Allowed Operations](#visualizing-the-allowed-operations)
+- [Understanding Disorder Visually](#understanding-disorder-visually)
+- [How Our Adaptive Strategy Uses Disorder](#how-our-adaptive-strategy-uses-disorder)
+- [Understanding Algorithmic Complexity](#understanding-algorithmic-complexity)
+- [Understanding Disorder](#understanding-disorder)
+- [Why Disorder Matters](#why-disorder-matters)
+- [Our Sorting Strategies](#our-sorting-strategies)
+  - [Strategy 1: Simple Sort](#strategy-1-simple-sort)
+  - [Strategy 2: Medium Sort](#strategy-2-medium-sort)
+  - [Selecting the Chunk Size](#selecting-the-chunk-size)
+  - [Strategy 3: Complex Sort](#strategy-3-complex-sort)
+  - [Strategy 4: Adaptive Strategy](#strategy-4-adaptive-strategy)
+  - [Tiny Sort Optimization](#tiny-sort-optimization)
+- [From Input to Output: Following the Journey Through the Program](#from-input-to-output-following-the-journey-through-the-program)
+- [Project Architecture](#project-architecture)
+- [Data Structures](#data-structures)
+- [Performance Targets](#performance-targets)
+- [Lessons Learned](#lessons-learned)
+- [Team Contributions](#team-contributions)
+- [Peer Acknowledgements](#peer-acknowledgements)
+- [Instructions](#instructions)
+  - [Compilation](#compilation)
+  - [Usage](#usage)
+- [Testing](#testing)
+- [Bonus Part: Checker](#bonus-part-checker)
+- [Resources](#resources)
+- [AI Usage](#ai-usage)
+- [Final Reflection](#final-reflection)
+
+---
+
 # Description
 
 **push_swap** is one of the most algorithmically focused projects in the 42 curriculum.
