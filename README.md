@@ -8,7 +8,7 @@ This document is **not intended to be a tutorial or a definitive guide to solvin
 
 Its purpose is to document our project, our implementation choices, the lessons we learned, and the reasoning that led us to those decisions. We hope it helps other students, peers, recruiters, and curious readers better understand the problem and perhaps develop even better solutions than ours.
 
-We do not claim that our approach is the best possible one. Push_swap is a fascinating problem precisely because there are many valid ways to solve it, each with different trade-offs. This README reflects our own journey through the project and follows the collaborative spirit of the 42 curriculum, where peer-to-peer learning, discussion, experimentation, and continuous improvement are central values.
+We do not claim that our approach is the best possible one. Push_swap is a fascinating problem precisely because there are many valid ways to solve it, each with different trade-offs. This README reflects our own journey through the project and follows the collaborative spirit of the 42 curriculum, where peer-to-peer learning, discussion, experimentation and continuous improvement are central values.
 
 ---
 
